@@ -8,6 +8,8 @@
 
 ## :radio_button: [TCS ION National Level Internship Test](https://github.com/Khushi-Singh-Git/Accolades/blob/main/TCS%20ION%20Internship.md)
 
+## :radio_button: [Certificate of appreciation for Director of Public Relations and Outreach, MUNSoc, VIT ](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Director%20of%20Public%20Relations%20and%20Outreach%2C%20MUNSoc%2C%20VIT%20Certificate.md)
+
 ## :radio_button: [Network Communication certificate by University of Colorado](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Network%20Communication.md)
 
 ## :radio_button: [Python certification from University of Michigan](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Python%20Certification.md)
