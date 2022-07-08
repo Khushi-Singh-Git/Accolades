@@ -10,7 +10,7 @@
 
 ## :trophy: [Merit Scholarship from SENSE Department, VIT](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Merit%20Scholarship%20Certificate.md)
 
-## :trophy: [TCS ION National Level Internship Test](https://github.com/Khushi-Singh-Git/Accolades/blob/main/TCS%20ION%20Internship.md)
+## :trophy: [Cleared TCS ION National Level Internship Test](https://github.com/Khushi-Singh-Git/Accolades/blob/main/TCS%20ION%20Internship.md)
 
 ## :trophy: [Certificate of appreciation for Director of Public Relations and Outreach](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Director%20of%20Public%20Relations%20and%20Outreach%2C%20MUNSoc%2C%20VIT%20Certificate.md)
 
