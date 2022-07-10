@@ -14,8 +14,8 @@
 
 ## :trophy: [Certificate of appreciation for Director of Public Relations and Outreach](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Director%20of%20Public%20Relations%20and%20Outreach%2C%20MUNSoc%2C%20VIT%20Certificate.md)
 
-## :trophy: [Network Communication certificate by University of Colorado](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Network%20Communication.md)
+## :trophy: [Network Communication certification from University of Colorado](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Network%20Communication.md)
 
 ## :trophy: [Python certification from University of Michigan](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Python%20Certification.md)
 
-## :trophy: [Linear Circuits II : AC Analysis certificate from Georgia Institute of Technology](https://github.com/Khushi-Singh-Git/Accolades/blob/main/AC%20Analysis%20Certification.md)
+## :trophy: [Linear Circuits II : AC Analysis certification from Georgia Institute of Technology](https://github.com/Khushi-Singh-Git/Accolades/blob/main/AC%20Analysis%20Certification.md)
