@@ -17,3 +17,5 @@
 ## :trophy: [Network Communication certificate by University of Colorado](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Network%20Communication.md)
 
 ## :trophy: [Python certification from University of Michigan](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Python%20Certification.md)
+
+## :trophy: [Linear Circuits II : AC Analysis certificate from Georgia Institute of Technology](https://github.com/Khushi-Singh-Git/Accolades/blob/main/AC%20Analysis%20Certification.md)
