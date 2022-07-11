@@ -18,6 +18,6 @@
 
 ## :trophy: [Python certification from University of Michigan](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Python%20Certification.md)
 
-## :trophy: [Linear Circuits II : AC Analysis certification from Georgia Institute of Technology](https://github.com/Khushi-Singh-Git/Accolades/blob/main/AC%20Analysis%20Certification.md)
+## :trophy: [AC Analysis certification from Georgia Institute of Technology](https://github.com/Khushi-Singh-Git/Accolades/blob/main/AC%20Analysis%20Certification.md)
 
-## :trophy: [Introduction to Household Water Treatment and Safe Storage Certification from EPFL](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Water%20Treatment%20Certification%20.md)
+## :trophy: [Household Water Treatment and Safe Storage Certification from EPFL](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Water%20Treatment%20Certification%20.md)
