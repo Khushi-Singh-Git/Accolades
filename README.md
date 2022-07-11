@@ -1,6 +1,6 @@
 # :dart: Accolades
 
-### Chekout the Certificates here
+### _Chekout the Certificates here_
 
 ## :trophy: [Industrial Internship at C-DAC, Mohali](https://github.com/Khushi-Singh-Git/Accolades/blob/main/CDAC%20internship.md)
 
