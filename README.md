@@ -23,3 +23,5 @@
 ## :trophy: [The Arduino platform and C Programming Certification from UCI](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Arduino%20Programming%20Certification.md)
 
 ## :trophy: [Household Water Treatment and Safe Storage Certification from EPFL](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Water%20Treatment%20Certification%20.md)
+
+## :trophy: [10 hour Aptitude Workshop Certificate from TalentBattle](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Five%20Day%20Aptitude%20Workshop%20Certificate.md)
