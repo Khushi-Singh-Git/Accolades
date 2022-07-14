@@ -26,5 +26,5 @@
 
 ## :trophy: [10-hour Aptitude Workshop Certificate from TalentBattle](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Five%20Day%20Aptitude%20Workshop%20Certificate.md)
 
-## :trophy: [36-Hour Hackathon, WomenTechies 2021 held by Developers Student Club, VIT certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Women%20Techies%202021.md)
+## :trophy: [36-Hour Hackathon, WomenTechies 2021 held by DSC, VIT certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Women%20Techies%202021.md)
 
