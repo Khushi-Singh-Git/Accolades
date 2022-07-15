@@ -10,7 +10,7 @@
 
 ## :trophy: [Merit Scholarship from SENSE Department, VIT](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Merit%20Scholarship%20Certificate.md)
 
-## :trophy: [AICTE Regional Level Chhatra Vishwakarma Awards 2020 Certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/AICTE%20Regional%20Level%20Chhatra%20Vishwakarma%20Awards%20Certificate.md)
+## :trophy: [AICTE Regional Level Chhatra Vishwakarma Awards Certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/AICTE%20Regional%20Level%20Chhatra%20Vishwakarma%20Awards%20Certificate.md)
 
 ## :trophy: [Cleared TCS ION National Level Internship Test](https://github.com/Khushi-Singh-Git/Accolades/blob/main/TCS%20ION%20Internship.md)
 
