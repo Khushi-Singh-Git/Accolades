@@ -2,6 +2,8 @@
 
 ### _Chekout the Certificates here_
 
+## :trophy: [Certificates and Accreditation of Victorious Hackathons](https://github.com/Khushi-Singh-Git/Victorious-Hackathons)
+
 ## :trophy: [Industrial Internship at C-DAC, Mohali](https://github.com/Khushi-Singh-Git/Accolades/blob/main/CDAC%20internship.md)
 
 ## :trophy: [ Finalist of TECHgium (5th edition) by LNT ](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Finalist%20of%20TECHgium%20(5th%20edition)%20by%20LNT.md)
@@ -30,3 +32,4 @@
 
 ## :trophy: [36-Hour Hackathon, WomenTechies 2021 held by DSC, VIT certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Women%20Techies%202021.md)
 
+## :trophy: [Quality Week in Microprocessors Session Participation Certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Quality%20Week%20in%20Microprocessors.md)
