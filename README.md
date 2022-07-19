@@ -35,3 +35,5 @@
 ## :trophy: [36-Hour Hackathon, WomenTechies 2021 held by DSC, VIT certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Women%20Techies%202021.md)
 
 ## :trophy: [Quality Week in Microprocessors Session Participation Certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Quality%20Week%20in%20Microprocessors.md)
+
+## :trophy: [ Global quiz Certificate of Appreciation by SIET](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Global%20quiz%20Certificate%20of%20Appreciation.md)
