@@ -36,6 +36,8 @@
 
 ## :trophy: [Quality Week in Microprocessors Session Participation Certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Quality%20Week%20in%20Microprocessors.md)
 
+## :trophy: [Asia and India Book of Records Poster Exhibition Certificate](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Asia%20and%20India%20Book%20of%20Records%20Poster%20Exhibition%20.md)
+
 ## :trophy: [ Global quiz Certificate of Appreciation by SIET](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Global%20quiz%20Certificate%20of%20Appreciation.md)
 
 ## :trophy: [Scored 100% in Discovering India Quiz Series organized by KGC, Kerela](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Discovering%20India%20Quiz%20Series%20100%25.md)
