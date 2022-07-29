@@ -42,6 +42,8 @@
 
 ## :trophy: [Scored 100% in Discovering India Quiz Series organized by KGC, Kerela](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Discovering%20India%20Quiz%20Series%20100%25.md)
 
+## :trophy: [Scored 100% in National level e-quiz organized by VJIT, Hyderabad](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Scored%20100%25%20in%20Lingua%20France.md)
+
 ## :trophy: [Secured 100/100 in Nation Level Quiz, by Alva's College ](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Full%20score%20in%20Nation%20Level%20Quiz%20%20by%20Alva's%20College.md)
 
 
