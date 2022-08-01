@@ -46,4 +46,6 @@
 
 ## :trophy: [Secured 100/100 in National Level Quiz, by Alva's College ](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Full%20score%20in%20Nation%20Level%20Quiz%20%20by%20Alva's%20College.md)
 
+## :trophy: [Project Submission Award by HackNITR](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Project%20Submission%20Award%20by%20HackNITR.md)
+
 
