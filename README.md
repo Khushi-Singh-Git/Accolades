@@ -4,7 +4,7 @@
 
 ## :trophy: [Certificates and Accreditation of Victorious Hackathons](https://github.com/Khushi-Singh-Git/Victorious-Hackathons)
 
-## :trophy: [Research Papers published](https://github.com/Khushi-Singh-Git/Publications)
+## :trophy: [Research Papers published and awarded with Best Paper awards](https://github.com/Khushi-Singh-Git/Publications)
 
 ## :trophy: [Industrial Internship at C-DAC, Mohali](https://github.com/Khushi-Singh-Git/Accolades/blob/main/CDAC%20internship.md)
 
