@@ -12,7 +12,7 @@
 
 ## :trophy: [Winner of Honorable mention award at CHRIST MUN](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Honorable%20Mention%20CHRIST%20MUN.md)
 
-## :trophy: [Merit Scholarship from SENSE Department, VIT](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Merit%20Scholarship%20Certificate.md)
+## :trophy: [Merit Scholarship certificate from SENSE Department in 2020-21, VIT](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Merit%20Scholarship%20Certificate.md)
 
 ## :trophy: [Certificate of Appreciation for serving as Programme Representative, 2021-2022](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Programme%20Representative%2C%202021-2022.md)
 
