@@ -14,7 +14,7 @@
 
 ## :trophy: [Merit Scholarship certificate from SENSE Department in 2020-21, VIT](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Merit%20Scholarship%20Certificate.md)
 
-## :trophy: [Merit Scholarship certificate from SENSE Department in 2021-22, VIT]()
+## :trophy: [Merit Scholarship certificate from SENSE Department in 2021-22, VIT](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Merit%20Scholarship%20Certificate%202021-22.md)
 
 ## :trophy: [Certificate of Appreciation for serving as Programme Representative, 2021-2022](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Programme%20Representative%2C%202021-2022.md)
 
