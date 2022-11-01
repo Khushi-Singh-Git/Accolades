@@ -53,3 +53,5 @@
 ## :trophy: [Project Submission Award by HackNITR](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Project%20Submission%20Award%20by%20HackNITR.md)
 
 ## :trophy: [Certificate of appreciation for pinning a flag on 75th Independence day](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Pinning%20a%20flag%20on%2075th%20Independence%20day%20.md)
+
+## :trophy: [Getting Started with Bootstrap Certification of completion](https://github.com/Khushi-Singh-Git/Accolades/blob/main/Getting%20Started%20with%20Bootstrap%20Certification.md)
